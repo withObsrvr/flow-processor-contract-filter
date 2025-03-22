@@ -14,7 +14,7 @@ github.com/klauspost/compress/zstd/internal/xxhash
 # github.com/pkg/errors v0.9.1
 ## explicit
 github.com/pkg/errors
-# github.com/stellar/go v0.0.0-20250213232608-c453f8b35c75
+# github.com/stellar/go v0.0.0-20250311234916-385ac5aca1a4
 ## explicit; go 1.23
 github.com/stellar/go/strkey
 github.com/stellar/go/strkey/internal/crc16
